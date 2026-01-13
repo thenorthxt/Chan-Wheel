@@ -2,7 +2,7 @@
 A chan-native memecoin flywheel combining buybacks, burn, and culture loops.
 <img width="1468" height="471" alt="Capture d’écran 2026-01-13 à 21 01 34" src="https://github.com/user-attachments/assets/d2d8777c-a56f-4a5c-b992-fe22da899678" />
 
-![Uploading Capture d’écran 2026-01-13 à 21.01.34.png…]()
+
 
 What is Chan Wheel?
 
