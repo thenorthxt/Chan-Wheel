@@ -1,6 +1,6 @@
 # Chan-Wheel
 A chan-native memecoin flywheel combining buybacks, burn, and culture loops.
-![Uploading Gemini_Generated_Image_jyqj21jyqj21jyqj.png…]()
+![Uploading Capture d’écran 2026-01-13 à 21.01.34.png…]()
 
 
 What is Chan Wheel?
